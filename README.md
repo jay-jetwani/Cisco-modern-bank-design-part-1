@@ -9,7 +9,7 @@ Download the Cisco Packet Tracer Latest Version [here](https://www.netacad.com/c
 Download all the Previous Versions of Cisco Packet Tracer [here](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html)
 
 
-#about this Project
+## About Cisco Packet Tracer Modern Bank Design
 In this networking design, there will be three main counters. The following arrangements will be there in all the three counters
 1) Regional Branch
 1. There will be three main cabins inside each counter and these will be interconnected.
